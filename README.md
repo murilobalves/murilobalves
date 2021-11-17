@@ -23,7 +23,10 @@ I'm an Accelerator Physicist working at [Sirius, the Brazilian Synchrotron Light
 ### Find me on
 
 <div>
-  <a href="https://www.linkedin.com/in/murilo-b-alves-9a7272136/>
+  <a href="https://www.linkedin.com/in/murilo-b-alves-9a7272136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
+  <a href="mailto:murilob.alves@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+  </a>
  </div>
