@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**murilobalves/murilobalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Accelerator Physicist working at [Sirius, the Brazilian Synchrotron Light Laboratory](https://www.lnls.cnpem.br/sirius-en/) in Campinas, Brazil.
 
-Here are some ideas to get you started:
+### Github Stats 📑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/murilobalves">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=murilobalves&count_private=true&show_icons=true&theme=nightowl&line_height=27" />
+    <!-- https://github.com/anuraghazra/github-readme-stats/issues/1  
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobalves&hide=html,jupyter%20notebook,papyrus&theme=nightowl&langs_count=10" />
+    -->  
+</a>
+</p>
+
+### I have some experience with
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333.svg?&style=flat&logo=jupyter)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX)&nbsp;
+
