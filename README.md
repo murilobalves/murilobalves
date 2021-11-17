@@ -20,3 +20,10 @@ I'm an Accelerator Physicist working at [Sirius, the Brazilian Synchrotron Light
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=LaTeX)&nbsp;
 
+### Find me on
+
+<div>
+  <a href="https://www.linkedin.com/in/murilo-b-alves-9a7272136/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+ </div>
